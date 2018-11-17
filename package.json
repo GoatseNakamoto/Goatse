@@ -11,6 +11,8 @@
     "truffle-test": "truffle test --network test"
   },
   "dependencies": {
+    "randomatic": ">=3.0.0"
+    "merge": ">=1.2.1"
     "vue": "latest",
     "vue-draggable-resizable": "latest",
     "vuex": "latest",
